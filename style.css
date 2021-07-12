@@ -1,18 +1,13 @@
- body {
+body {
   background-color: pink;
   font-family: script,helvetica
   margin: 10% 20%;  
 }
 
-img{width: 20%
- }
+img {width:20%
+  }
 
-.exp-header {
-  text-align: center;
-  text-trasform: uppercase;
-  border-top: 1px solid #dddddd;
-  border-bottom: 1px solid #dddddd;
-  background-color:rgba (0,0,0 0.1)
-    
+h1 {
+  color:white;
+  padding-left: 100px;
 }
-
